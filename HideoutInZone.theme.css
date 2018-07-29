@@ -5,8 +5,8 @@
 
 /* == ZMIANY KOLORYSTYCZNE == */
 :root {
-	--main-color: #e67a27;
-	--hover-color: #b35d1e;
+    --main-color: #d6c213;
+    --hover-color: #b7a50b;
     --background-blur: 1px;
     --background-brightness: 150%;
 }
